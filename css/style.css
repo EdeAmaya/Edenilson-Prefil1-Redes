@@ -257,7 +257,7 @@ button {
 
 .navigation.navbar {
      float: left;
-     background: #fff;
+     background: #daeff7;
      clear: both;
      padding: 23px 25px !important;
      border-radius: 64px;
@@ -772,37 +772,11 @@ button {
 
 /** footer **/
 
-.footer {
-     background: #252525;
-     padding-top: 90px;
-     text-align: center;
-     font-family: 'Roboto', sans-serif;
-}
-
-ul.location_icon {
-     text-align: center;
-}
-
-ul.location_icon li {
-     display: inline-block;
-     font-size: 17px;
-     line-height: 20px;
-     color: #fff;
-     text-align: center;
-     padding: 0 40px;
-}
-
-ul.location_icon li a {
-     font-size: 40px;
-     color: #fff;
-     line-height: 30px;
-     display: block;
-}
 
 .copyright {
      margin-top: 80px;
      padding-bottom: 20px;
-     background: #fbfdfd;
+     background: #88c7c7;
 }
 
 .copyright p {
@@ -830,7 +804,6 @@ ul.location_icon li a {
 
 .position_head .header {
      position: inherit;
-     background: #03cafc;
 }
 
 .position_head .glasses,
